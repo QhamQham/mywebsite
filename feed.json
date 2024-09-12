@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Q&#x27;s Bakery",
+    "description": "",
+    "home_page_url": "https://qhamqham.github.io/mywebsite",
+    "feed_url": "https://qhamqham.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Qhamzit"
+    },
+    "items": [
+        {
+            "id": "https://qhamqham.github.io/mywebsite/about-qs-page.html",
+            "url": "https://qhamqham.github.io/mywebsite/about-qs-page.html",
+            "title": "About Q&#x27;s page",
+            "summary": "👀 This bakers page has been running since 2020 on the 4th of September.Our bakery offers different sized yummy,scrumptious and appetizing cupcakes.We cater for those who want to feed their sweet tooth and those who are celebrating special occasions like birthdays,funerals,etc...This bakery started small with&hellip;",
+            "content_html": "<p>👀</p>\n<h1>This is Q's Bakery page!</h1>\n<p>This bakers page has been running since 2020 on the 4th of September.Our bakery offers different sized yummy,scrumptious and appetizing cupcakes.We cater for those who want to feed their sweet tooth and those who are celebrating special occasions like birthdays,funerals,etc...This bakery started small with only 15 customers ordering online and 45 buying in our physical store per annum.As the years went by we got more and more customers leading to an estimate of 5000 + customers per annum.It's safe to say that my business has become a success.Drive by or text our store to get a taste of our goodies!</p>\n<h6>What's a world without its sweetness?</h6>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://qhamqham.github.io/mywebsite/media/posts/2/gallery/screenshot_20220918-163453_photos.jpg\" data-size=\"1080x803\"><img loading=\"lazy\" src=\"https://qhamqham.github.io/mywebsite/media/posts/2/gallery/screenshot_20220918-163453_photos-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"535\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Qhamzit"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-05T08:58:06+02:00",
+            "date_modified": "2024-09-05T09:06:00+02:00"
+        }
+    ]
+}

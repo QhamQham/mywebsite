@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://qhamqham.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://qhamqham.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://qhamqham.github.io/mywebsite/about-qs-page.html</loc>
+<lastmod>2024-09-05T09:06:00+02:00</lastmod>
+<image:image>
+<image:loc>https://qhamqham.github.io/mywebsite/media/posts/2/gallery/screenshot_20220918-163453_photos-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://qhamqham.github.io/mywebsite/about.html</loc>
+<lastmod>2024-09-05T09:10:09+02:00</lastmod>
+</url>
+<url>
+<loc>https://qhamqham.github.io/mywebsite/contacts.html</loc>
+<lastmod>2024-09-12T08:05:25+02:00</lastmod>
+<image:image>
+<image:loc>https://qhamqham.github.io/mywebsite/media/posts/4/gallery/Peggy-Porschen-Arrives-thumbnail.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

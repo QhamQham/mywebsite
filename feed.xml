@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Q&#x27;s Bakery</title>
+    <link href="https://qhamqham.github.io/mywebsite/feed.xml" rel="self" />
+    <link href="https://qhamqham.github.io/mywebsite" />
+    <updated>2024-09-05T09:06:00+02:00</updated>
+    <author>
+        <name>Qhamzit</name>
+    </author>
+    <id>https://qhamqham.github.io/mywebsite</id>
+
+    <entry>
+        <title>About Q&#x27;s page</title>
+        <author>
+            <name>Qhamzit</name>
+        </author>
+        <link href="https://qhamqham.github.io/mywebsite/about-qs-page.html"/>
+        <id>https://qhamqham.github.io/mywebsite/about-qs-page.html</id>
+
+        <updated>2024-09-05T08:58:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                    👀 This bakers page has been running since 2020 on the 4th of September.Our bakery offers different sized yummy,scrumptious and appetizing cupcakes.We cater for those who want to feed their sweet tooth and those who are celebrating special occasions like birthdays,funerals,etc...This bakery started small with&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>👀</p>
+<h1>This is Q's Bakery page!</h1>
+<p>This bakers page has been running since 2020 on the 4th of September.Our bakery offers different sized yummy,scrumptious and appetizing cupcakes.We cater for those who want to feed their sweet tooth and those who are celebrating special occasions like birthdays,funerals,etc...This bakery started small with only 15 customers ordering online and 45 buying in our physical store per annum.As the years went by we got more and more customers leading to an estimate of 5000 + customers per annum.It's safe to say that my business has become a success.Drive by or text our store to get a taste of our goodies!</p>
+<h6>What's a world without its sweetness?</h6>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://qhamqham.github.io/mywebsite/media/posts/2/gallery/screenshot_20220918-163453_photos.jpg" data-size="1080x803"><img loading="lazy" src="https://qhamqham.github.io/mywebsite/media/posts/2/gallery/screenshot_20220918-163453_photos-thumbnail.jpg" alt="" width="720" height="535"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
